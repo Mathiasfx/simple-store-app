@@ -156,7 +156,7 @@ export default function StoreApp() {
 
   const sendWhatsAppMessage = (productName: string) => {
     const message = `Hola, estoy interesado en  ${productName}. ¿Puede proporcionarme más información?`;
-    const whatsappNumber = "1234567890"; // Reemplaza
+    const whatsappNumber = "3704806288"; // Reemplaza
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
       message
     )}`;
