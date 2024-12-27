@@ -117,7 +117,7 @@ const products = [
     name: "Kenzo Flower",
     price: 54500,
     promoPrice: 43600,
-    inStock: true,
+    inStock: false,
     image:
       "https://firebasestorage.googleapis.com/v0/b/productosperfumes.appspot.com/o/perfumes%2FPERFUMES_PLANTILLA%20ELLAS%201%20copia%2012.png?alt=media&token=e9b79ca8-ab03-4e9c-ab88-bca64704ac6c",
     description:
